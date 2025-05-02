@@ -1,4 +1,5 @@
+## Hello, This is my page.
 ---
-title: Welcome to my blog
+E-Blog: Welcome!
 ---
 
